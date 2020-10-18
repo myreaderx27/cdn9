@@ -1,0 +1,14 @@
+<svg width="1000" height="1000" viewBox="0 0 1000 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0)">
+<rect width="1000" height="1000" fill="white"/>
+<ellipse rx="347.71" ry="320.976" transform="matrix(0.568241 0.822862 0.700218 -0.713929 350.364 564.271)" fill="#FF4444"/>
+<ellipse rx="347.71" ry="320.976" transform="matrix(-0.568241 0.822862 -0.700218 -0.713929 649.664 564.271)" fill="#FF4444"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M505.676 123.029C527.724 85.1972 568.731 59.7712 615.676 59.7712C662.621 59.7712 703.627 85.1972 725.676 123.029C703.627 160.862 662.621 186.288 615.676 186.288C568.731 186.288 527.724 160.862 505.676 123.029Z" fill="#009A50"/>
+<rect x="494.676" y="60.7712" width="11" height="234" rx="5.5" fill="black"/>
+</g>
+<defs>
+<clipPath id="clip0">
+<rect width="1000" height="1000" fill="white"/>
+</clipPath>
+</defs>
+</svg>
